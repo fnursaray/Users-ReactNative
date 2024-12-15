@@ -15,6 +15,10 @@
 - Formik
 - Yup
 
+## API
+
+- https://randomuser.me
+
 ## Screen Gif
 
 <img src="screen.gif" />
